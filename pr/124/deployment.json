@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "124",
+  "baseUrl": "/pr/124/",
+  "buildDate": "2026-07-03T17:14:35.911Z",
+  "ref": "fix/verify-version-only-visual-scope",
+  "branch": "fix/verify-version-only-visual-scope",
+  "sha": "2cf57a92d5fee32f194d6478cf59f4f8438fa377",
+  "appVersion": "0.1.4"
+}
