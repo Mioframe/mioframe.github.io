@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "127",
+  "baseUrl": "/pr/127/",
+  "buildDate": "2026-07-06T15:17:51.348Z",
+  "ref": "chore/use-browserslist-vite-target",
+  "branch": "chore/use-browserslist-vite-target",
+  "sha": "a7c6c672810d2ed186131dee5456acca721bee7a",
+  "appVersion": "0.1.7"
+}
