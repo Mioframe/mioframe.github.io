@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "126",
+  "baseUrl": "/pr/126/",
+  "buildDate": "2026-07-06T08:25:44.203Z",
+  "ref": "fix/verify-block-flaky-and-vue-warnings",
+  "branch": "fix/verify-block-flaky-and-vue-warnings",
+  "sha": "a14f80009679ecce4d35736df1be924b949ffbbb",
+  "appVersion": "0.1.5"
+}
