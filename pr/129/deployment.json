@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "129",
+  "baseUrl": "/pr/129/",
+  "buildDate": "2026-07-06T19:27:31.332Z",
+  "ref": "chore/evaluate-remaining-major-dependencies",
+  "branch": "chore/evaluate-remaining-major-dependencies",
+  "sha": "e359e7f94ec5ab2c85c7113cc1f5016536b42bde",
+  "appVersion": "0.1.9"
+}
