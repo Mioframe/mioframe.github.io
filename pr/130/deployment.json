@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "130",
+  "baseUrl": "/pr/130/",
+  "buildDate": "2026-07-07T11:04:36.060Z",
+  "ref": "fix/pages-root-spa-fallback-invariant",
+  "branch": "fix/pages-root-spa-fallback-invariant",
+  "sha": "d4cc74e1009c49cdd00ce704d6cf1c53520cc511",
+  "appVersion": "0.1.10"
+}
