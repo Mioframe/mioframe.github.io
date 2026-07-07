@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "131",
+  "baseUrl": "/pr/131/",
+  "buildDate": "2026-07-07T13:41:05.733Z",
+  "ref": "fix/export-json-browser-storage",
+  "branch": "fix/export-json-browser-storage",
+  "sha": "9b39628adcedadcefadf81e02d09ab86fbf24efd",
+  "appVersion": "0.1.11"
+}

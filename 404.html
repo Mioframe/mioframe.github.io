@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting…</title>
+  <script>
+    (function () {
+      var path = window.location.pathname;
+      var branchMatch = path.match(/^\/branch\/([^/]+)(?:\/|$)/);
+      var prMatch = path.match(/^\/pr\/(\d+)(?:\/|$)/);
+      var targetRoot = branchMatch
+        ? '/branch/' + branchMatch[1] + '/'
+        : prMatch
+          ? '/pr/' + prMatch[1] + '/'
+          : '/';
+
+      try {
+        sessionStorage.setItem('ghPagesSpaFallback', path + window.location.search + window.location.hash);
+      } catch {
+        // Best-effort path restoration only.
+      }
+      window.location.replace(targetRoot);
+    })();
+  </script>
+</head>
+<body></body>
+</html>
