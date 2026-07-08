@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "136",
+  "baseUrl": "/pr/136/",
+  "buildDate": "2026-07-08T17:25:12.245Z",
+  "ref": "docs/verify-entrypoint-rule",
+  "branch": "docs/verify-entrypoint-rule",
+  "sha": "511e286b10b0a2640f1d08c145e5275afd254381",
+  "appVersion": "0.1.14"
+}
