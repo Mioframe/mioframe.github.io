@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "135",
+  "baseUrl": "/pr/135/",
+  "buildDate": "2026-07-08T19:38:27.376Z",
+  "ref": "refactor/material-foundation-token-wiring",
+  "branch": "refactor/material-foundation-token-wiring",
+  "sha": "fbd45759c05df597a24171c5ad0f6e9ae9ed8204",
+  "appVersion": "0.1.15"
+}
