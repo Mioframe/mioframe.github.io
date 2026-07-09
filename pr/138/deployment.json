@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "138",
+  "baseUrl": "/pr/138/",
+  "buildDate": "2026-07-09T11:47:41.708Z",
+  "ref": "refactor/reorder-full-row-native-activation",
+  "branch": "refactor/reorder-full-row-native-activation",
+  "sha": "2dc8d987b7cafc6a24b4f049a4470ea827c3e57c",
+  "appVersion": "0.1.17"
+}
