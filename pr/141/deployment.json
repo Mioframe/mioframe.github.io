@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "141",
   "baseUrl": "/pr/141/",
-  "buildDate": "2026-07-11T08:22:13.727Z",
+  "buildDate": "2026-07-11T08:46:40.740Z",
   "ref": "test/storybook-browser-behavior-lane",
   "branch": "test/storybook-browser-behavior-lane",
-  "sha": "6b5733d6d4d8060dca94f04c03c9a31967f94c96",
+  "sha": "5b4d1e53e4e775ad8bae00b56079534b8de7f632",
   "appVersion": "0.1.17"
 }
