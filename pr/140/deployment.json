@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "140",
   "baseUrl": "/pr/140/",
-  "buildDate": "2026-07-10T21:01:59.502Z",
+  "buildDate": "2026-07-11T18:50:06.575Z",
   "ref": "docs/minimum-sufficient-design-rules",
   "branch": "docs/minimum-sufficient-design-rules",
-  "sha": "06fb20c5a5584e049ccd18f81c1544ade133d76b",
-  "appVersion": "0.1.17"
+  "sha": "8b365371e7929f4587430c599844f846d3ef4feb",
+  "appVersion": "0.1.18"
 }
