@@ -2,7 +2,7 @@
   "channel": "pr",
   "channelId": "145",
   "baseUrl": "/pr/145/",
-  "buildDate": "2026-07-12T19:38:42.010Z",
+  "buildDate": "2026-07-12T20:01:14.334Z",
   "ref": "fix/filter-menu-lifecycle-race",
   "branch": "fix/filter-menu-lifecycle-race",
   "sha": "a4d14b48c46c8d2e54740ec2dbdd582d89a4d931",
