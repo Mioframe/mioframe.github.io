@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "143",
+  "baseUrl": "/pr/143/",
+  "buildDate": "2026-07-12T11:12:16.994Z",
+  "ref": "docs/e2e-interaction-fidelity",
+  "branch": "docs/e2e-interaction-fidelity",
+  "sha": "71e61ad428d5ee88809e977ce8ff7ee9e7e1ff88",
+  "appVersion": "0.1.20"
+}
