@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "145",
+  "baseUrl": "/pr/145/",
+  "buildDate": "2026-07-12T17:39:53.443Z",
+  "ref": "fix/filter-menu-lifecycle-race",
+  "branch": "fix/filter-menu-lifecycle-race",
+  "sha": "fd6ada2bb6b5141d594dfa26cd0946eba8ffa43e",
+  "appVersion": "0.1.22"
+}
