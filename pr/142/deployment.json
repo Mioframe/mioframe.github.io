@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "142",
+  "baseUrl": "/pr/142/",
+  "buildDate": "2026-07-12T07:52:13.019Z",
+  "ref": "docs/restore-agent-invariants",
+  "branch": "docs/restore-agent-invariants",
+  "sha": "4a86be1d89f4fa706f3f7110691ee308f7fa031b",
+  "appVersion": "0.1.19"
+}
