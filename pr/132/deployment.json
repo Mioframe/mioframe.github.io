@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "132",
   "baseUrl": "/pr/132/",
-  "buildDate": "2026-07-12T13:04:49.186Z",
+  "buildDate": "2026-07-12T13:57:34.497Z",
   "ref": "feature/storage-zip-export-import",
   "branch": "feature/storage-zip-export-import",
-  "sha": "3bf31a1c2410e2bfe7da2f2724c1f6ca6099dc23",
+  "sha": "386c50aba8b6674086d56bb08f2da67393415065",
   "appVersion": "0.2.0"
 }
