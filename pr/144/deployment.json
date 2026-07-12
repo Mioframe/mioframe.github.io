@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "144",
+  "baseUrl": "/pr/144/",
+  "buildDate": "2026-07-12T14:16:06.090Z",
+  "ref": "fix/e2e-filter-menu-detach-race",
+  "branch": "fix/e2e-filter-menu-detach-race",
+  "sha": "f6d0f511faa9f17ec616af2b411207a8b3cbdbec",
+  "appVersion": "0.1.21"
+}
