@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "139",
   "baseUrl": "/pr/139/",
-  "buildDate": "2026-07-13T06:38:42.033Z",
+  "buildDate": "2026-07-13T07:48:53.704Z",
   "ref": "feature/vue-reactive-reorder-library",
   "branch": "feature/vue-reactive-reorder-library",
-  "sha": "ededf6a46292d8dca3b54a54318c068ed9a92359",
-  "appVersion": "0.1.23"
+  "sha": "6127157436bc0cc585c2685a5213bcb8ba49a17a",
+  "appVersion": "0.2.1"
 }
