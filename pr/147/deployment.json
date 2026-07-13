@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "147",
+  "baseUrl": "/pr/147/",
+  "buildDate": "2026-07-13T12:26:29.226Z",
+  "ref": "refactor/migrate-database-view-reorder",
+  "branch": "refactor/migrate-database-view-reorder",
+  "sha": "a67fccbfe517c16aa09513ab7effa77e9aac2ce1",
+  "appVersion": "0.2.2"
+}
