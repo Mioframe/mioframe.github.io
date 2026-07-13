@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "147",
   "baseUrl": "/pr/147/",
-  "buildDate": "2026-07-13T17:19:54.239Z",
+  "buildDate": "2026-07-13T18:11:44.009Z",
   "ref": "refactor/migrate-database-view-reorder",
   "branch": "refactor/migrate-database-view-reorder",
-  "sha": "444670068d09266e14daeeb5c7c8471f7637baa4",
+  "sha": "c85e637980da2d68dba0beef6014158951aef3d8",
   "appVersion": "0.2.2"
 }
