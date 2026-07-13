@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "146",
+  "baseUrl": "/pr/146/",
+  "buildDate": "2026-07-13T12:43:13.530Z",
+  "ref": "refactor/md-button-family-material-contract",
+  "branch": "refactor/md-button-family-material-contract",
+  "sha": "d9a53e064385f50a157b41cedc16be28b68430d4",
+  "appVersion": "0.2.2"
+}
