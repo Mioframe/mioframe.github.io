@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "149",
   "baseUrl": "/pr/149/",
-  "buildDate": "2026-07-15T19:30:59.089Z",
+  "buildDate": "2026-07-15T20:01:50.977Z",
   "ref": "docs/md-component-architecture",
   "branch": "docs/md-component-architecture",
-  "sha": "57502e2497fa5df4bfa414f7af58f1a2a3ed2027",
+  "sha": "b637eb2f5028fc153a67d7edc8c07c5b9551d2fe",
   "appVersion": "0.2.4"
 }
