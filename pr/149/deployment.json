@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "149",
+  "baseUrl": "/pr/149/",
+  "buildDate": "2026-07-15T18:18:19.777Z",
+  "ref": "docs/md-component-architecture",
+  "branch": "docs/md-component-architecture",
+  "sha": "f9065bca9f0afcf5a7c405a4580966d757cdcdbc",
+  "appVersion": "0.2.4"
+}
