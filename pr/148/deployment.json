@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "148",
   "baseUrl": "/pr/148/",
-  "buildDate": "2026-07-16T13:46:50.135Z",
+  "buildDate": "2026-07-16T15:07:31.958Z",
   "ref": "refactor/dnd-kit-reorder-pilot",
   "branch": "refactor/dnd-kit-reorder-pilot",
-  "sha": "f6102e040b96403a27c0229c717ffe218ae566be",
+  "sha": "d330dae43ace6923dd5d9f3f265e485a7af09b1f",
   "appVersion": "0.2.5"
 }
