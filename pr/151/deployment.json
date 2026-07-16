@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "151",
+  "baseUrl": "/pr/151/",
+  "buildDate": "2026-07-16T12:23:04.035Z",
+  "ref": "feat/material-static-architecture-validation",
+  "branch": "feat/material-static-architecture-validation",
+  "sha": "e4a42e9066deb4d25761948850a3c4fc93cb1303",
+  "appVersion": "0.2.5"
+}
