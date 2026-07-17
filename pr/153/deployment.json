@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "153",
   "baseUrl": "/pr/153/",
-  "buildDate": "2026-07-17T19:43:43.086Z",
+  "buildDate": "2026-07-17T20:16:52.363Z",
   "ref": "docs/testing-architecture",
   "branch": "docs/testing-architecture",
-  "sha": "f7cd198370819ae51c44cd413080e806829cb791",
+  "sha": "b4671e099286de88439f13ea5e3418469ff8d770",
   "appVersion": "0.2.6"
 }
