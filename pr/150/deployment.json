@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "150",
   "baseUrl": "/pr/150/",
-  "buildDate": "2026-07-17T18:35:03.706Z",
+  "buildDate": "2026-07-17T20:13:10.322Z",
   "ref": "fix/md-button-material-token-contract",
   "branch": "fix/md-button-material-token-contract",
-  "sha": "6f06f53749636e84ffdcfa2467b5af7e201f658a",
+  "sha": "065a92e92334197e22e4d8755df8f649d16fe26c",
   "appVersion": "0.2.8"
 }
