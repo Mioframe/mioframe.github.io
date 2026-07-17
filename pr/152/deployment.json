@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "152",
   "baseUrl": "/pr/152/",
-  "buildDate": "2026-07-17T07:39:57.765Z",
+  "buildDate": "2026-07-17T08:26:02.180Z",
   "ref": "agent/simplify-material-roadmap",
   "branch": "agent/simplify-material-roadmap",
-  "sha": "82a7be89569e3fc43ba39f626b7bdcd8e864fb57",
+  "sha": "3ee0094a47caeecd12ec7aca544006d4ae948e4a",
   "appVersion": "0.2.5"
 }
