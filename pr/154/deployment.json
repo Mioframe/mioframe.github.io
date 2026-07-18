@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "154",
+  "baseUrl": "/pr/154/",
+  "buildDate": "2026-07-18T20:21:41.669Z",
+  "ref": "refactor/verify-status-aware-changed-paths",
+  "branch": "refactor/verify-status-aware-changed-paths",
+  "sha": "44efa3f83575747a9b9988c355fd7acfe7d16a31",
+  "appVersion": "0.2.8"
+}
