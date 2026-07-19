@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "155",
+  "baseUrl": "/pr/155/",
+  "buildDate": "2026-07-19T04:53:23.700Z",
+  "ref": "docs/material-library-development-focus",
+  "branch": "docs/material-library-development-focus",
+  "sha": "359b741b6a161e07e02d32128b195966ff1dfdff",
+  "appVersion": "0.2.8"
+}
