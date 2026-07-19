@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "156",
+  "baseUrl": "/pr/156/",
+  "buildDate": "2026-07-19T06:05:09.159Z",
+  "ref": "feature/pr-preview-storybook",
+  "branch": "feature/pr-preview-storybook",
+  "sha": "0c0b7418bdd73f9a689eb8bfe687a93df6623875",
+  "appVersion": "0.2.8"
+}
