@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "161",
+  "baseUrl": "/pr/161/",
+  "buildDate": "2026-07-23T11:22:31.828Z",
+  "ref": "feature/managed-stable-app-updates",
+  "branch": "feature/managed-stable-app-updates",
+  "sha": "ec6af4765eeda5d74f8620673d6b5821e4de3724",
+  "appVersion": "0.2.13"
+}
