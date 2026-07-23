@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "160",
+  "baseUrl": "/pr/160/",
+  "buildDate": "2026-07-23T07:15:36.166Z",
+  "ref": "fix/pr-preview-version-gate",
+  "branch": "fix/pr-preview-version-gate",
+  "sha": "e2e8f38e22cd154daae06fc39e3b7c1a252594f2",
+  "appVersion": "0.2.12"
+}
