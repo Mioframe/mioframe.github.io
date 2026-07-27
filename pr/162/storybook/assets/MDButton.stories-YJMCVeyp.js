@@ -1,0 +1,329 @@
+import { d as v, c as D, b as k, a as M, t as B, r as t, e as x } from "./iframe-DqsqLf0r.js";
+import { u as q } from "./useFocusIndicator-DZ98Vj9q.js";
+import { M as e } from "./MDButton-nHdyfvSY.js";
+import "./preload-helper-PPVm8Dsz.js";
+import "./index-BZZnVyth.js";
+import "./MDLoadingIndicator-D28cnLKU.js";
+import "./_plugin-vue_export-helper-DlAUqK2U.js";
+const I = { id: "visual-md-button-target-hit", class: "visual-checker-backdrop" }, w = { id: "visual-md-button-target-hit-count" }, p = v({ __name: "MDButtonTargetHitVisualStory", setup(g) {
+  const n = t(0), a = () => {
+    n.value += 1;
+  };
+  return (b, h) => (x(), D("div", I, [k(e, { label: "OK", size: "extra-small", onClick: a }), M("output", w, B(n.value), 1)]));
+} });
+p.__docgenInfo = Object.assign({ displayName: p.name ?? p.__name }, { exportName: "default", displayName: "MDButtonTargetHitVisualStory", type: 1, props: [{ name: "ariaActiveDescendantElement", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaActiveDescendantElement)", tags: [], required: false, type: "Element | null", declarations: [], schema: { kind: "enum", type: "Element | null", schema: ["null", { kind: "object", type: "Element" }] } }, { name: "ariaAtomic", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaAtomic)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaAutoComplete", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaAutoComplete)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaBrailleLabel", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaBrailleLabel)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaBrailleRoleDescription", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaBrailleRoleDescription)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaBusy", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaBusy)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaChecked", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaChecked)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaColCount", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaColCount)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaColIndex", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaColIndex)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaColIndexText", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaColIndexText)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaColSpan", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaColSpan)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaControlsElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaControlsElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaCurrent", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaCurrent)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaDescribedByElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaDescribedByElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaDescription", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaDescription)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaDetailsElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaDetailsElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaDisabled", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaDisabled)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaErrorMessageElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaErrorMessageElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaExpanded", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaExpanded)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaFlowToElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaFlowToElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaHasPopup", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaHasPopup)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaHidden", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaHidden)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaInvalid", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaInvalid)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaKeyShortcuts", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaKeyShortcuts)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaLabel", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaLabel)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaLabelledByElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaLabelledByElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaLevel", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaLevel)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaLive", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaLive)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaModal", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaModal)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaMultiLine", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaMultiLine)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaMultiSelectable", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaMultiSelectable)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaOrientation", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaOrientation)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaOwnsElements", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaOwnsElements)", tags: [], required: false, type: "readonly Element[] | null", declarations: [], schema: { kind: "enum", type: "readonly Element[] | null", schema: ["null", { kind: "array", type: "readonly Element[]" }] } }, { name: "ariaPlaceholder", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaPlaceholder)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaPosInSet", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaPosInSet)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaPressed", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaPressed)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaReadOnly", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaReadOnly)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRelevant", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRelevant)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRequired", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRequired)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRoleDescription", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRoleDescription)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRowCount", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRowCount)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRowIndex", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRowIndex)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRowIndexText", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRowIndexText)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaRowSpan", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaRowSpan)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaSelected", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaSelected)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaSetSize", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaSetSize)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaSort", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaSort)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaValueMax", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaValueMax)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaValueMin", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaValueMin)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaValueNow", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaValueNow)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "ariaValueText", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/ariaValueText)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "role", global: true, description: "[MDN Reference](https://developer.mozilla.org/docs/Web/API/Element/role)", tags: [], required: false, type: "string | null", declarations: [], schema: { kind: "enum", type: "string | null", schema: ["null", "string"] } }, { name: "key", global: true, description: "", tags: [], required: false, type: "PropertyKey", declarations: [], schema: { kind: "enum", type: "PropertyKey", schema: ["string", "number", "symbol"] } }, { name: "ref", global: true, description: "", tags: [], required: false, type: "VNodeRef", declarations: [], schema: { kind: "enum", type: "VNodeRef", schema: ["string", "Ref<any, any>", { kind: "event", type: "(ref: Element | ComponentPublicInstance<{}, {}, {}, {}, {}, {}, {}, {}, false, ComponentOptionsBase<any, any, any, any, any, any, any, any, any, {}, {}, string, {}, {}, {}, string, ComponentProvideOptions>, ... 4 more ..., any> | null, refs: Record<...>): void" }] } }, { name: "ref_for", global: true, description: "", tags: [], required: false, type: "boolean", declarations: [], schema: { kind: "enum", type: "boolean", schema: ["false", "true"] } }, { name: "ref_key", global: true, description: "", tags: [], required: false, type: "string", declarations: [], schema: "string" }, { name: "class", global: true, description: "", tags: [], required: false, type: "unknown", declarations: [], schema: "unknown" }, { name: "style", global: true, description: "", tags: [], required: false, type: "unknown", declarations: [], schema: "unknown" }, { name: "tabindex", global: true, description: "", tags: [], required: false, type: "string | number", declarations: [], schema: { kind: "enum", type: "string | number", schema: ["string", "number"] } }, { name: "aria-activedescendant", global: true, description: "Identifies the currently active element when DOM focus is on a composite widget, textbox, group, or application.", tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-atomic", global: true, description: "Indicates whether assistive technologies will present all, or only parts of, the changed region based on the change notifications defined by the aria-relevant attribute.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-autocomplete", global: true, description: `Indicates whether inputting text could trigger display of one or more predictions of the user's intended value for an input and specifies how predictions would be
+presented if they are made.`, tags: [], required: false, type: '"none" | "inline" | "list" | "both" | undefined', declarations: [], schema: { kind: "enum", type: '"none" | "inline" | "list" | "both" | undefined', schema: ["undefined", '"none"', '"inline"', '"list"', '"both"'] } }, { name: "aria-busy", global: true, description: "Indicates an element is being modified and that assistive technologies MAY want to wait until the modifications are complete before exposing them to the user.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-checked", global: true, description: 'Indicates the current "checked" state of checkboxes, radio buttons, and other widgets.', tags: [{ name: "see", text: "aria-pressed" }, { name: "see", text: "aria-selected." }], required: false, type: 'Booleanish | "mixed" | undefined', declarations: [], schema: { kind: "enum", type: 'Booleanish | "mixed" | undefined', schema: ["undefined", "false", "true", '"true"', '"false"', '"mixed"'] } }, { name: "aria-colcount", global: true, description: "Defines the total number of columns in a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-colindex." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-colindex", global: true, description: "Defines an element's column index or position with respect to the total number of columns within a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-colcount" }, { name: "see", text: "aria-colspan." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-colspan", global: true, description: "Defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-colindex" }, { name: "see", text: "aria-rowspan." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-controls", global: true, description: "Identifies the element (or elements) whose contents or presence are controlled by the current element.", tags: [{ name: "see", text: "aria-owns." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-current", global: true, description: "Indicates the element that represents the current item within a container or set of related elements.", tags: [], required: false, type: 'Booleanish | "page" | "step" | "location" | "date" | "time" | undefined', declarations: [], schema: { kind: "enum", type: 'Booleanish | "page" | "step" | "location" | "date" | "time" | undefined', schema: ["undefined", "false", "true", '"true"', '"false"', '"page"', '"step"', '"location"', '"date"', '"time"'] } }, { name: "aria-describedby", global: true, description: "Identifies the element (or elements) that describes the object.", tags: [{ name: "see", text: "aria-labelledby" }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-details", global: true, description: "Identifies the element that provides a detailed, extended description for the object.", tags: [{ name: "see", text: "aria-describedby." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-disabled", global: true, description: "Indicates that the element is perceivable but disabled, so it is not editable or otherwise operable.", tags: [{ name: "see", text: "aria-hidden" }, { name: "see", text: "aria-readonly." }], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-dropeffect", global: true, description: "Indicates what functions can be performed when a dragged object is released on the drop target.", tags: [{ name: "deprecated", text: "in ARIA 1.1" }], required: false, type: '"none" | "copy" | "execute" | "link" | "move" | "popup" | undefined', declarations: [], schema: { kind: "enum", type: '"none" | "copy" | "execute" | "link" | "move" | "popup" | undefined', schema: ["undefined", '"none"', '"copy"', '"execute"', '"link"', '"move"', '"popup"'] } }, { name: "aria-errormessage", global: true, description: "Identifies the element that provides an error message for the object.", tags: [{ name: "see", text: "aria-invalid" }, { name: "see", text: "aria-describedby." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-expanded", global: true, description: "Indicates whether the element, or another grouping element it controls, is currently expanded or collapsed.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-flowto", global: true, description: `Identifies the next element (or elements) in an alternate reading order of content which, at the user's discretion,
+allows assistive technology to override the general default of reading in document source order.`, tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-grabbed", global: true, description: `Indicates an element's "grabbed" state in a drag-and-drop operation.`, tags: [{ name: "deprecated", text: "in ARIA 1.1" }], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-haspopup", global: true, description: "Indicates the availability and type of interactive popup element, such as menu or dialog, that can be triggered by an element.", tags: [], required: false, type: 'Booleanish | "menu" | "listbox" | "tree" | "grid" | "dialog" | undefined', declarations: [], schema: { kind: "enum", type: 'Booleanish | "menu" | "listbox" | "tree" | "grid" | "dialog" | undefined', schema: ["undefined", "false", "true", '"true"', '"false"', '"menu"', '"listbox"', '"tree"', '"grid"', '"dialog"'] } }, { name: "aria-hidden", global: true, description: "Indicates whether the element is exposed to an accessibility API.", tags: [{ name: "see", text: "aria-disabled." }], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-invalid", global: true, description: "Indicates the entered value does not conform to the format expected by the application.", tags: [{ name: "see", text: "aria-errormessage." }], required: false, type: 'Booleanish | "grammar" | "spelling" | undefined', declarations: [], schema: { kind: "enum", type: 'Booleanish | "grammar" | "spelling" | undefined', schema: ["undefined", "false", "true", '"true"', '"false"', '"grammar"', '"spelling"'] } }, { name: "aria-keyshortcuts", global: true, description: "Indicates keyboard shortcuts that an author has implemented to activate or give focus to an element.", tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-label", global: true, description: "Defines a string value that labels the current element.", tags: [{ name: "see", text: "aria-labelledby." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-labelledby", global: true, description: "Identifies the element (or elements) that labels the current element.", tags: [{ name: "see", text: "aria-describedby." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-level", global: true, description: "Defines the hierarchical level of an element within a structure.", tags: [], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-live", global: true, description: "Indicates that an element will be updated, and describes the types of updates the user agents, assistive technologies, and user can expect from the live region.", tags: [], required: false, type: '"off" | "assertive" | "polite" | undefined', declarations: [], schema: { kind: "enum", type: '"off" | "assertive" | "polite" | undefined', schema: ["undefined", '"off"', '"assertive"', '"polite"'] } }, { name: "aria-modal", global: true, description: "Indicates whether an element is modal when displayed.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-multiline", global: true, description: "Indicates whether a text box accepts multiple lines of input or only a single line.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-multiselectable", global: true, description: "Indicates that the user may select more than one item from the current selectable descendants.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-orientation", global: true, description: "Indicates whether the element's orientation is horizontal, vertical, or unknown/ambiguous.", tags: [], required: false, type: '"horizontal" | "vertical" | undefined', declarations: [], schema: { kind: "enum", type: '"horizontal" | "vertical" | undefined', schema: ["undefined", '"horizontal"', '"vertical"'] } }, { name: "aria-owns", global: true, description: `Identifies an element (or elements) in order to define a visual, functional, or contextual parent/child relationship
+between DOM elements where the DOM hierarchy cannot be used to represent the relationship.`, tags: [{ name: "see", text: "aria-controls." }], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-placeholder", global: true, description: `Defines a short hint (a word or short phrase) intended to aid the user with data entry when the control has no value.
+A hint could be a sample value or a brief description of the expected format.`, tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-posinset", global: true, description: "Defines an element's number or position in the current set of listitems or treeitems. Not required if all elements in the set are present in the DOM.", tags: [{ name: "see", text: "aria-setsize." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-pressed", global: true, description: 'Indicates the current "pressed" state of toggle buttons.', tags: [{ name: "see", text: "aria-checked" }, { name: "see", text: "aria-selected." }], required: false, type: 'Booleanish | "mixed" | undefined', declarations: [], schema: { kind: "enum", type: 'Booleanish | "mixed" | undefined', schema: ["undefined", "false", "true", '"true"', '"false"', '"mixed"'] } }, { name: "aria-readonly", global: true, description: "Indicates that the element is not editable, but is otherwise operable.", tags: [{ name: "see", text: "aria-disabled." }], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-relevant", global: true, description: "Indicates what notifications the user agent will trigger when the accessibility tree within a live region is modified.", tags: [{ name: "see", text: "aria-atomic." }], required: false, type: '"additions" | "additions removals" | "additions text" | "all" | "removals" | "removals additions" | "removals text" | "text" | "text additions" | "text removals" | undefined', declarations: [], schema: { kind: "enum", type: '"additions" | "additions removals" | "additions text" | "all" | "removals" | "removals additions" | "removals text" | "text" | "text additions" | "text removals" | undefined', schema: ["undefined", '"additions"', '"additions removals"', '"additions text"', '"all"', '"removals"', '"removals additions"', '"removals text"', '"text"', '"text additions"', '"text removals"'] } }, { name: "aria-required", global: true, description: "Indicates that user input is required on the element before a form may be submitted.", tags: [], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-roledescription", global: true, description: "Defines a human-readable, author-localized description for the role of an element.", tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }, { name: "aria-rowcount", global: true, description: "Defines the total number of rows in a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-rowindex." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-rowindex", global: true, description: "Defines an element's row index or position with respect to the total number of rows within a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-rowcount" }, { name: "see", text: "aria-rowspan." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-rowspan", global: true, description: "Defines the number of rows spanned by a cell or gridcell within a table, grid, or treegrid.", tags: [{ name: "see", text: "aria-rowindex" }, { name: "see", text: "aria-colspan." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-selected", global: true, description: 'Indicates the current "selected" state of various widgets.', tags: [{ name: "see", text: "aria-checked" }, { name: "see", text: "aria-pressed." }], required: false, type: "Booleanish | undefined", declarations: [], schema: { kind: "enum", type: "Booleanish | undefined", schema: ["undefined", "false", "true", '"true"', '"false"'] } }, { name: "aria-setsize", global: true, description: "Defines the number of items in the current set of listitems or treeitems. Not required if all elements in the set are present in the DOM.", tags: [{ name: "see", text: "aria-posinset." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-sort", global: true, description: "Indicates if items in a table or grid are sorted in ascending or descending order.", tags: [], required: false, type: '"none" | "ascending" | "descending" | "other" | undefined', declarations: [], schema: { kind: "enum", type: '"none" | "ascending" | "descending" | "other" | undefined', schema: ["undefined", '"none"', '"ascending"', '"descending"', '"other"'] } }, { name: "aria-valuemax", global: true, description: "Defines the maximum allowed value for a range widget.", tags: [], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-valuemin", global: true, description: "Defines the minimum allowed value for a range widget.", tags: [], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-valuenow", global: true, description: "Defines the current value for a range widget.", tags: [{ name: "see", text: "aria-valuetext." }], required: false, type: "Numberish | undefined", declarations: [], schema: { kind: "enum", type: "Numberish | undefined", schema: ["undefined", "string", "number"] } }, { name: "aria-valuetext", global: true, description: "Defines the human readable text alternative of aria-valuenow for a range widget.", tags: [], required: false, type: "string | undefined", declarations: [], schema: { kind: "enum", type: "string | undefined", schema: ["undefined", "string"] } }], events: [], slots: [], exposed: [], sourceFiles: "/home/runner/work/mioframe/mioframe/app-source/src/shared/ui/material/components/button/MDButtonTargetHitVisualStory.vue" });
+const O = { title: "Material 3/Components/Buttons/MDButton", component: e, args: { color: "filled", label: "Save" }, argTypes: { onClick: { action: "click" } }, parameters: { layout: "centered", docs: { description: { component: "Mioframe Material Button adapter backed privately by @m3e/web. Supports default and controlled toggle variants (including text), five color configurations and sizes, round/square shapes, disabled state, native form types, leading icon content, and an indeterminate Loading indicator composition." } } } }, i = {}, l = { tags: ["visual"], render: () => ({ components: { MDButton: e }, template: `
+      <div data-testid="visual-md-button-states" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Filled" color="filled"><template #icon>+</template></MDButton>
+          <MDButton label="Outlined" color="outlined"><template #icon>+</template></MDButton>
+          <MDButton label="Text" color="text"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Tonal" color="tonal"><template #icon>+</template></MDButton>
+          <MDButton label="Elevated" color="elevated"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Disabled filled" disabled><template #icon>+</template></MDButton>
+          <MDButton label="Disabled outlined" color="outlined" disabled><template #icon>+</template></MDButton>
+          <MDButton label="Disabled text" color="text" disabled><template #icon>+</template></MDButton>
+        </div>
+      </div>
+    ` }) }, s = { render: () => ({ components: { MDButton: e }, template: `
+      <div data-testid="visual-md-button-size-geometry" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Extra small" size="extra-small"><template #icon>+</template></MDButton>
+          <MDButton label="Small" size="small"><template #icon>+</template></MDButton>
+          <MDButton label="Medium" size="medium"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Large" size="large"><template #icon>+</template></MDButton>
+          <MDButton label="Extra large" size="extra-large"><template #icon>+</template></MDButton>
+        </div>
+      </div>
+    ` }) }, r = { tags: ["visual"], render: () => ({ components: { MDButton: e }, template: `
+      <div data-testid="visual-md-button-toggle-shapes" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Round selected" variant="toggle" selected color="tonal" />
+          <MDButton label="Round unselected" variant="toggle" color="tonal" />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Square selected" variant="toggle" selected shape="square" color="tonal" />
+          <MDButton label="Square unselected" variant="toggle" shape="square" color="tonal" />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Text selected" variant="toggle" selected color="text" />
+          <MDButton label="Text unselected" variant="toggle" color="text" />
+        </div>
+      </div>
+    ` }) }, o = { tags: ["visual"], render: () => ({ components: { MDButton: e }, template: `
+      <div data-testid="visual-md-button-disabled-selected-outlined-text" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Outlined unselected" variant="toggle" disabled color="outlined" />
+          <MDButton label="Outlined selected" variant="toggle" selected disabled color="outlined" />
+          <MDButton label="Text disabled" disabled color="text" />
+        </div>
+      </div>
+    ` }) }, d = { render: () => ({ components: { MDButtonTargetHitVisualStory: p }, template: "<MDButtonTargetHitVisualStory />" }) }, u = { render: () => ({ components: { MDButton: e }, setup() {
+  q();
+}, template: `
+      <div class="visual-checker-backdrop" style="position:fixed;inset:0;">
+        <div id="visual-md-button-focus-indicator" style="position:absolute;inset:auto 12px 12px auto;">
+          <MDButton label="Focus target" />
+        </div>
+      </div>
+    ` }) }, c = { render: () => ({ components: { MDButton: e }, setup() {
+  const g = t(false), n = t(0), a = t(0), b = t(0), h = t(0), f = t(0);
+  return { disabledClickCount: f, loadingClickCount: h, onDisabledClick: () => {
+    f.value += 1;
+  }, onLoadingClick: () => {
+    h.value += 1;
+  }, onSubmit: () => {
+    a.value += 1;
+  }, onUpdateSelected: (y) => {
+    n.value += 1, g.value = y;
+  }, resetCount: b, selected: g, selectionIntentCount: n, submitCount: a };
+}, template: `
+      <div data-testid="md-button-behavior-contracts">
+        <form aria-label="Button form" @submit.prevent="onSubmit" @reset="resetCount += 1">
+          <input aria-label="Reset value" value="initial" />
+          <MDButton label="Submit action" native-type="submit" />
+          <MDButton label="Reset action" native-type="reset" />
+        </form>
+        <output id="md-button-submit-count">{{ submitCount }}</output>
+        <output id="md-button-reset-count">{{ resetCount }}</output>
+        <MDButton label="Toggle action" variant="toggle" :selected="selected" @update:selected="onUpdateSelected" />
+        <output id="md-button-selected">{{ selected }}</output>
+        <output id="md-button-selection-intent-count">{{ selectionIntentCount }}</output>
+        <button id="md-button-programmatic-select" type="button" @click="selected = true">Select programmatically</button>
+        <MDButton label="Loading action" loading @click="onLoadingClick" />
+        <output id="md-button-loading-count">{{ loadingClickCount }}</output>
+        <MDButton label="Disabled action" disabled @click="onDisabledClick" />
+        <output id="md-button-disabled-count">{{ disabledClickCount }}</output>
+        <MDButton label="Press action" size="medium" />
+      </div>
+    ` }) }, m = { tags: ["visual"], render: () => ({ components: { MDButton: e }, template: `
+      <div data-testid="visual-md-button-loading" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Saving" color="filled" loading />
+          <MDButton label="Uploading" color="outlined" loading><template #icon>+</template></MDButton>
+          <MDButton label="Sending" color="text" loading />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Saving" color="tonal" loading />
+          <MDButton label="Disabled saving" color="filled" disabled loading />
+        </div>
+      </div>
+    ` }) };
+i.parameters = { ...i.parameters, docs: { ...i.parameters?.docs, source: { originalSource: "{}", ...i.parameters?.docs?.source } } };
+l.parameters = { ...l.parameters, docs: { ...l.parameters?.docs, source: { originalSource: `{
+  tags: ['visual'],
+  render: () => ({
+    components: {
+      MDButton
+    },
+    template: \`
+      <div data-testid="visual-md-button-states" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Filled" color="filled"><template #icon>+</template></MDButton>
+          <MDButton label="Outlined" color="outlined"><template #icon>+</template></MDButton>
+          <MDButton label="Text" color="text"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Tonal" color="tonal"><template #icon>+</template></MDButton>
+          <MDButton label="Elevated" color="elevated"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Disabled filled" disabled><template #icon>+</template></MDButton>
+          <MDButton label="Disabled outlined" color="outlined" disabled><template #icon>+</template></MDButton>
+          <MDButton label="Disabled text" color="text" disabled><template #icon>+</template></MDButton>
+        </div>
+      </div>
+    \`
+  })
+}`, ...l.parameters?.docs?.source } } };
+s.parameters = { ...s.parameters, docs: { ...s.parameters?.docs, source: { originalSource: `{
+  render: () => ({
+    components: {
+      MDButton
+    },
+    template: \`
+      <div data-testid="visual-md-button-size-geometry" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Extra small" size="extra-small"><template #icon>+</template></MDButton>
+          <MDButton label="Small" size="small"><template #icon>+</template></MDButton>
+          <MDButton label="Medium" size="medium"><template #icon>+</template></MDButton>
+        </div>
+        <div class="visual-row">
+          <MDButton label="Large" size="large"><template #icon>+</template></MDButton>
+          <MDButton label="Extra large" size="extra-large"><template #icon>+</template></MDButton>
+        </div>
+      </div>
+    \`
+  })
+}`, ...s.parameters?.docs?.source } } };
+r.parameters = { ...r.parameters, docs: { ...r.parameters?.docs, source: { originalSource: `{
+  tags: ['visual'],
+  render: () => ({
+    components: {
+      MDButton
+    },
+    template: \`
+      <div data-testid="visual-md-button-toggle-shapes" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Round selected" variant="toggle" selected color="tonal" />
+          <MDButton label="Round unselected" variant="toggle" color="tonal" />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Square selected" variant="toggle" selected shape="square" color="tonal" />
+          <MDButton label="Square unselected" variant="toggle" shape="square" color="tonal" />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Text selected" variant="toggle" selected color="text" />
+          <MDButton label="Text unselected" variant="toggle" color="text" />
+        </div>
+      </div>
+    \`
+  })
+}`, ...r.parameters?.docs?.source } } };
+o.parameters = { ...o.parameters, docs: { ...o.parameters?.docs, source: { originalSource: `{
+  tags: ['visual'],
+  render: () => ({
+    components: {
+      MDButton
+    },
+    template: \`
+      <div data-testid="visual-md-button-disabled-selected-outlined-text" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Outlined unselected" variant="toggle" disabled color="outlined" />
+          <MDButton label="Outlined selected" variant="toggle" selected disabled color="outlined" />
+          <MDButton label="Text disabled" disabled color="text" />
+        </div>
+      </div>
+    \`
+  })
+}`, ...o.parameters?.docs?.source } } };
+d.parameters = { ...d.parameters, docs: { ...d.parameters?.docs, source: { originalSource: `{
+  render: () => ({
+    components: {
+      MDButtonTargetHitVisualStory
+    },
+    template: '<MDButtonTargetHitVisualStory />'
+  })
+}`, ...d.parameters?.docs?.source } } };
+u.parameters = { ...u.parameters, docs: { ...u.parameters?.docs, source: { originalSource: `{
+  render: () => ({
+    components: {
+      MDButton
+    },
+    setup() {
+      useFocusIndicator();
+    },
+    template: \`
+      <div class="visual-checker-backdrop" style="position:fixed;inset:0;">
+        <div id="visual-md-button-focus-indicator" style="position:absolute;inset:auto 12px 12px auto;">
+          <MDButton label="Focus target" />
+        </div>
+      </div>
+    \`
+  })
+}`, ...u.parameters?.docs?.source } } };
+c.parameters = { ...c.parameters, docs: { ...c.parameters?.docs, source: { originalSource: `{
+  render: () => ({
+    components: {
+      MDButton
+    },
+    setup() {
+      const selected = ref(false);
+      const selectionIntentCount = ref(0);
+      const submitCount = ref(0);
+      const resetCount = ref(0);
+      const loadingClickCount = ref(0);
+      const disabledClickCount = ref(0);
+      const onSubmit = () => {
+        submitCount.value += 1;
+      };
+      const onUpdateSelected = (nextSelected: boolean) => {
+        selectionIntentCount.value += 1;
+        selected.value = nextSelected;
+      };
+      const onLoadingClick = () => {
+        loadingClickCount.value += 1;
+      };
+      const onDisabledClick = () => {
+        disabledClickCount.value += 1;
+      };
+      return {
+        disabledClickCount,
+        loadingClickCount,
+        onDisabledClick,
+        onLoadingClick,
+        onSubmit,
+        onUpdateSelected,
+        resetCount,
+        selected,
+        selectionIntentCount,
+        submitCount
+      };
+    },
+    template: \`
+      <div data-testid="md-button-behavior-contracts">
+        <form aria-label="Button form" @submit.prevent="onSubmit" @reset="resetCount += 1">
+          <input aria-label="Reset value" value="initial" />
+          <MDButton label="Submit action" native-type="submit" />
+          <MDButton label="Reset action" native-type="reset" />
+        </form>
+        <output id="md-button-submit-count">{{ submitCount }}</output>
+        <output id="md-button-reset-count">{{ resetCount }}</output>
+        <MDButton label="Toggle action" variant="toggle" :selected="selected" @update:selected="onUpdateSelected" />
+        <output id="md-button-selected">{{ selected }}</output>
+        <output id="md-button-selection-intent-count">{{ selectionIntentCount }}</output>
+        <button id="md-button-programmatic-select" type="button" @click="selected = true">Select programmatically</button>
+        <MDButton label="Loading action" loading @click="onLoadingClick" />
+        <output id="md-button-loading-count">{{ loadingClickCount }}</output>
+        <MDButton label="Disabled action" disabled @click="onDisabledClick" />
+        <output id="md-button-disabled-count">{{ disabledClickCount }}</output>
+        <MDButton label="Press action" size="medium" />
+      </div>
+    \`
+  })
+}`, ...c.parameters?.docs?.source } } };
+m.parameters = { ...m.parameters, docs: { ...m.parameters?.docs, source: { originalSource: `{
+  tags: ['visual'],
+  render: () => ({
+    components: {
+      MDButton
+    },
+    template: \`
+      <div data-testid="visual-md-button-loading" class="visual-checker-backdrop">
+        <div class="visual-row">
+          <MDButton label="Saving" color="filled" loading />
+          <MDButton label="Uploading" color="outlined" loading><template #icon>+</template></MDButton>
+          <MDButton label="Sending" color="text" loading />
+        </div>
+        <div class="visual-row">
+          <MDButton label="Saving" color="tonal" loading />
+          <MDButton label="Disabled saving" color="filled" disabled loading />
+        </div>
+      </div>
+    \`
+  })
+}`, ...m.parameters?.docs?.source } } };
+const V = ["Default", "VisualStates", "SizeGeometryMatrix", "ToggleShapes", "DisabledSelectedOutlinedAndText", "ExpandedTargetHitArea", "FocusIndicatorTarget", "BehaviorContracts", "LoadingIndicatorPresentation"];
+export {
+  c as BehaviorContracts,
+  i as Default,
+  o as DisabledSelectedOutlinedAndText,
+  d as ExpandedTargetHitArea,
+  u as FocusIndicatorTarget,
+  m as LoadingIndicatorPresentation,
+  s as SizeGeometryMatrix,
+  r as ToggleShapes,
+  l as VisualStates,
+  V as __namedExportsOrder,
+  O as default
+};
