@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "164",
   "baseUrl": "/pr/164/",
-  "buildDate": "2026-07-27T06:44:20.497Z",
+  "buildDate": "2026-07-27T08:10:48.723Z",
   "ref": "agent/fix-verify-workflow",
   "branch": "agent/fix-verify-workflow",
-  "sha": "85cb7543ace80b68d8c3879b536d48eea89773bc",
+  "sha": "88586d8a4191576d78bfc0da4c6258a55c18c605",
   "appVersion": "0.2.13"
 }
