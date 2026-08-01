@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "162",
   "baseUrl": "/pr/162/",
-  "buildDate": "2026-07-31T20:03:00.285Z",
+  "buildDate": "2026-08-01T09:42:09.632Z",
   "ref": "refactor/material-docs-ownership",
   "branch": "refactor/material-docs-ownership",
-  "sha": "390d2faee5240a46ddec791f7d94f3fc7d4d0e7b",
+  "sha": "2c9a5d1216dd553e594cf9f67dfed120a12744e5",
   "appVersion": "0.2.14"
 }
