@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "169",
   "baseUrl": "/pr/169/",
-  "buildDate": "2026-08-02T08:06:30.359Z",
+  "buildDate": "2026-08-02T09:21:33.503Z",
   "ref": "feature/managed-pinned-updates",
   "branch": "feature/managed-pinned-updates",
-  "sha": "444645ef290c12cc459fe5cbb63dcca90456279e",
+  "sha": "9d973d52e70ca8d1dd68107ce823a16f5eb5944e",
   "appVersion": "0.3.0"
 }
