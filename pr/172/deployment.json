@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "172",
+  "baseUrl": "/pr/172/",
+  "buildDate": "2026-08-04T11:12:16.469Z",
+  "ref": "sync/develop-into-managed-pinned-updates",
+  "branch": "sync/develop-into-managed-pinned-updates",
+  "sha": "abbdf759b6d241b324f5af126435a538225b68e8",
+  "appVersion": "0.3.0"
+}
