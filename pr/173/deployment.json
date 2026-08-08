@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "173",
   "baseUrl": "/pr/173/",
-  "buildDate": "2026-08-06T06:42:50.603Z",
+  "buildDate": "2026-08-08T13:49:32.896Z",
   "ref": "docs/storybook-proof-architecture",
   "branch": "docs/storybook-proof-architecture",
-  "sha": "541802ee6213757abaf5b8acc38af72c3baa4d27",
+  "sha": "bbacd69751f6d2aa5568fd1312750264a786967b",
   "appVersion": "0.2.15"
 }
