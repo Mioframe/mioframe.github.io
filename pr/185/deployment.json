@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "185",
+  "baseUrl": "/pr/185/",
+  "buildDate": "2026-08-10T20:28:46.551Z",
+  "ref": "refactor/storybook-s2e-final-browser-ownership",
+  "branch": "refactor/storybook-s2e-final-browser-ownership",
+  "sha": "969502637e33fdc7219dafa14dc47642b430b91e",
+  "appVersion": "0.3.3"
+}
