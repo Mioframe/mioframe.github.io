@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "182",
+  "baseUrl": "/pr/182/",
+  "buildDate": "2026-08-10T16:40:07.252Z",
+  "ref": "refactor/storybook-s2d-button-ownership",
+  "branch": "refactor/storybook-s2d-button-ownership",
+  "sha": "4d5bd5e8bef86171c327ced084b83e423bfafed9",
+  "appVersion": "0.2.22"
+}
