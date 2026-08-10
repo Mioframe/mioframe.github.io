@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "183",
+  "baseUrl": "/pr/183/",
+  "buildDate": "2026-08-10T16:59:48.026Z",
+  "ref": "hotfix/verify-deleted-path-fixture-race",
+  "branch": "hotfix/verify-deleted-path-fixture-race",
+  "sha": "92ad6da3cf6806e4d8119ee493af0c16713d770b",
+  "appVersion": "0.3.0"
+}
