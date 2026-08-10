@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "176",
   "baseUrl": "/pr/176/",
-  "buildDate": "2026-08-09T20:20:11.940Z",
+  "buildDate": "2026-08-10T08:08:58.477Z",
   "ref": "refactor/storybook-browser-discovery-pilot",
   "branch": "refactor/storybook-browser-discovery-pilot",
-  "sha": "39f1a798e63f4acfe35431f378f582e12754cbb5",
+  "sha": "0b75963956b9982d8759613df527113dbe475751",
   "appVersion": "0.2.17"
 }
