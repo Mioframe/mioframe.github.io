@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "181",
+  "baseUrl": "/pr/181/",
+  "buildDate": "2026-08-10T14:12:40.499Z",
+  "ref": "refactor/storybook-s2c-reorder-owner-local",
+  "branch": "refactor/storybook-s2c-reorder-owner-local",
+  "sha": "560aa18616dfaee17c850e24d79f1332f0a353a7",
+  "appVersion": "0.2.21"
+}
