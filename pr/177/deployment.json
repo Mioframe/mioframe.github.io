@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "177",
+  "baseUrl": "/pr/177/",
+  "buildDate": "2026-08-10T08:47:28.604Z",
+  "ref": "docs/storybook-s2-migration-contract",
+  "branch": "docs/storybook-s2-migration-contract",
+  "sha": "cf9188dec6f4e8f52c421dc6a317b1cf2731e225",
+  "appVersion": "0.2.18"
+}
