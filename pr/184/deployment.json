@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "184",
+  "baseUrl": "/pr/184/",
+  "buildDate": "2026-08-10T18:18:17.242Z",
+  "ref": "chore/managed-update-release-2",
+  "branch": "chore/managed-update-release-2",
+  "sha": "16546c0567a17ccff4af6ad3bae69ca3e5744853",
+  "appVersion": "0.3.2"
+}
