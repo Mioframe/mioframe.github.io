@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "186",
+  "baseUrl": "/pr/186/",
+  "buildDate": "2026-08-11T11:17:26.686Z",
+  "ref": "refactor/material-switch-m3e",
+  "branch": "refactor/material-switch-m3e",
+  "sha": "99d5b3bfa7cb3a6a1b3369fa3a35da192b69f6f5",
+  "appVersion": "0.3.3"
+}
