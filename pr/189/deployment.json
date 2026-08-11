@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "189",
+  "baseUrl": "/pr/189/",
+  "buildDate": "2026-08-11T21:32:49.351Z",
+  "ref": "refactor/storybook-s4b-checkbox-visual-ownership",
+  "branch": "refactor/storybook-s4b-checkbox-visual-ownership",
+  "sha": "0528e75ea09fb4557f3bce47e4594627293debf0",
+  "appVersion": "0.3.6"
+}
