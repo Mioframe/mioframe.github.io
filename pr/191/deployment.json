@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "191",
+  "baseUrl": "/pr/191/",
+  "buildDate": "2026-08-12T13:27:37.345Z",
+  "ref": "refactor/storybook-s4c-markdowncontent-visual-ownership",
+  "branch": "refactor/storybook-s4c-markdowncontent-visual-ownership",
+  "sha": "b77e9398ec4129c9299b85d5bb4ac8fdf7551597",
+  "appVersion": "0.3.7"
+}
