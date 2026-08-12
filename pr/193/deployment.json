@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "193",
+  "baseUrl": "/pr/193/",
+  "buildDate": "2026-08-12T19:36:27.670Z",
+  "ref": "docs/material-storybook-final-ownership",
+  "branch": "docs/material-storybook-final-ownership",
+  "sha": "9aaa58f06fba3fd63bc41b84fd5c51a4653eeea0",
+  "appVersion": "0.3.11"
+}
