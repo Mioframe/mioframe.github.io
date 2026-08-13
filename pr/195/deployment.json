@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "195",
+  "baseUrl": "/pr/195/",
+  "buildDate": "2026-08-13T15:26:22.296Z",
+  "ref": "ci-parallel-verify-lanes",
+  "branch": "ci-parallel-verify-lanes",
+  "sha": "76a547f2addc2e783e8af9eb284360848c28b6a7",
+  "appVersion": "0.3.12"
+}
