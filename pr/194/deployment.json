@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "194",
+  "baseUrl": "/pr/194/",
+  "buildDate": "2026-08-13T14:36:05.856Z",
+  "ref": "refactor/material-checkbox-m3e",
+  "branch": "refactor/material-checkbox-m3e",
+  "sha": "74f93d3d513c82bf046ddcce2f055fefebc81301",
+  "appVersion": "0.3.12"
+}
