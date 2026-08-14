@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "197",
   "baseUrl": "/pr/197/",
-  "buildDate": "2026-08-14T11:51:04.840Z",
+  "buildDate": "2026-08-14T12:40:32.830Z",
   "ref": "refactor/verify-typescript-foundation",
   "branch": "refactor/verify-typescript-foundation",
-  "sha": "b1af6aa9f1bbeae7201d0e3431ee96637580cdc6",
-  "appVersion": "0.3.13"
+  "sha": "f01a340f7bcfe42cc2f91c660793cff5eb99cc11",
+  "appVersion": "0.3.14"
 }
