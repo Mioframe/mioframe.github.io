@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "196",
+  "baseUrl": "/pr/196/",
+  "buildDate": "2026-08-14T10:01:38.161Z",
+  "ref": "refactor/material-fab-m3e",
+  "branch": "refactor/material-fab-m3e",
+  "sha": "086fabbdbdadb725240268ace296375d894074ae",
+  "appVersion": "0.3.13"
+}
