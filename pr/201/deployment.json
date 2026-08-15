@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "201",
+  "baseUrl": "/pr/201/",
+  "buildDate": "2026-08-15T14:12:06.531Z",
+  "ref": "fix/reorder-self-scroll-release-flaky",
+  "branch": "fix/reorder-self-scroll-release-flaky",
+  "sha": "f709e1645c5d1c08fcd9c519b008b8667edb844f",
+  "appVersion": "0.3.17"
+}
