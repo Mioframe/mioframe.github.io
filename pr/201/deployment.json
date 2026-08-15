@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "201",
   "baseUrl": "/pr/201/",
-  "buildDate": "2026-08-15T14:12:06.531Z",
+  "buildDate": "2026-08-15T14:52:13.339Z",
   "ref": "fix/reorder-self-scroll-release-flaky",
   "branch": "fix/reorder-self-scroll-release-flaky",
-  "sha": "f709e1645c5d1c08fcd9c519b008b8667edb844f",
-  "appVersion": "0.3.17"
+  "sha": "debea562d9859334265b6ae3c423ca9f5ac8058e",
+  "appVersion": "0.3.18"
 }
