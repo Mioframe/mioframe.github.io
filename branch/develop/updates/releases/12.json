@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "releaseNumber": 12,
+  "appVersion": "0.3.17",
+  "buildId": "074a2a1627a14e64f5ada4a62841b9a04abd6884",
+  "buildDate": "2026-08-15T14:11:50Z",
+  "indexSha256": "a5a4f076b3b7419d28af8a4bd34bbb46affdd1af40b68a5f0c4c8f244e11a9e6",
+  "indexByteSize": 14740,
+  "files": [
+    {
+      "path": "assets/automerge_wasm_bg-BdM9z0C5.wasm",
+      "sha256": "dc81d5a59b41e796ecbb9aeb0f81be2caf1edd886a5637f3a36bfa071b6cf9a9",
+      "byteSize": 3380509
+    },
+    {
+      "path": "assets/index-ChKVaSq9.js",
+      "sha256": "540b3a76f1067bffd651fa57ffcd0c1ec0e947ddc6c3340e8f66c2ad03d70b83",
+      "byteSize": 455258
+    },
+    {
+      "path": "assets/index-vGQmKsup.js",
+      "sha256": "e65aac84f61b233e9e24aaf239dfdad64f596023df96ae3da73860c4d087f085",
+      "byteSize": 4044
+    },
+    {
+      "path": "assets/material-symbols-rounded-DAn5HeBV.woff2",
+      "sha256": "ac4914cea0a2c66768757ef5f01bd160f0d82fb67d61854172b11ea80d40c512",
+      "byteSize": 5345304
+    },
+    {
+      "path": "assets/preload-helper-D5DRQsGH.js",
+      "sha256": "ee918bf50a070b89928416bf0cb84f408eabdbadc330950f9f109daff91b0282",
+      "byteSize": 1516
+    },
+    {
+      "path": "assets/roboto-cyrillic-400-normal-Bjg-1-sg.woff",
+      "sha256": "172ec17d5fcba4cf25d72044be9a79e249c7c8a2cc0563fac39e8f64884ce495",
+      "byteSize": 10524
+    },
+    {
+      "path": "assets/roboto-cyrillic-400-normal-CBPI_iaY.woff2",
+      "sha256": "fe349e5377e88095a1b04b615bf5e745f1899556545383c348a007aab628815e",
+      "byteSize": 12108
+    },
+    {
+      "path": "assets/roboto-cyrillic-500-normal-CBKMylY4.woff",
+      "sha256": "c0697115dd5fe2121c77a0f3e5e39553b453b25dd8bc0bf8bbcf798de61e34b3",
+      "byteSize": 10732
+    },
+    {
+      "path": "assets/roboto-cyrillic-500-normal-CLao9AfR.woff2",
+      "sha256": "0991339551f58fb49d106c4b2a2beaf403823c0cdd0ed99d1a38f1a8b20d1595",
+      "byteSize": 12352
+    },
+    {
+      "path": "assets/roboto-cyrillic-700-normal-C2o7G-SM.woff2",
+      "sha256": "450e0c66acb4c5377a4f30dd5dec8370152f5f9521c0bc452589b3586bd978eb",
+      "byteSize": 12416
+    },
+    {
+      "path": "assets/roboto-cyrillic-700-normal-DhZFXDSN.woff",
+      "sha256": "3f3885f7af837aa27877c77f8b712f127092aa918fcad685de8fbc54377730ea",
+      "byteSize": 10748
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-400-normal-CaK1767H.woff",
+      "sha256": "f93d7f77890dda4778d55d4837583a10fb94b639322ac01ff24df2a9e397c55d",
+      "byteSize": 16336
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-400-normal-qHufge6k.woff2",
+      "sha256": "6d6be3a7d40feb9b785e62c4b629a0e5949e50cbbbad06eea4800a4c311e9898",
+      "byteSize": 17372
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-500-normal-BWC_xYeb.woff2",
+      "sha256": "a99e7e70a82255915e42d35ddf434d94c4e61d3e5ea02654083c113d1b97692a",
+      "byteSize": 17596
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-500-normal-DqF2hftb.woff",
+      "sha256": "f24d2126f049a70ec737bfb7e25e3fe44ea7665ab59cb3309484c1e0915410fc",
+      "byteSize": 16472
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-700-normal-CI7FH63F.woff",
+      "sha256": "d9ce998471714d47520059edc063b45028206d78e93727da07f34983cab292ae",
+      "byteSize": 16484
+    },
+    {
+      "path": "assets/roboto-cyrillic-ext-700-normal-DmFxo5wj.woff2",
+      "sha256": "b64aec59c2342a732ec9a766e0846692dad652c571ca3bc7fd31bf53943887eb",
+      "byteSize": 17620
+    },
+    {
+      "path": "assets/roboto-greek-400-normal-Bb5mj_fZ.woff",
+      "sha256": "2bb43064793ed49c7c6397ca9d608ef7f36dc66fc5690e6b8350eb297f2c2ea3",
+      "byteSize": 7668
+    },
+    {
+      "path": "assets/roboto-greek-400-normal-ai2Z1K3C.woff2",
+      "sha256": "1567c22e954336d26ec306a0dd756d19bb5e62c67e597ce0b778fc312dc68176",
+      "byteSize": 9556
+    },
+    {
+      "path": "assets/roboto-greek-500-normal-C9AnhcmC.woff2",
+      "sha256": "4a1a773d1cd80d3dbdd2a16c31192899a64e1fa09911a86c23364d108d74ef0a",
+      "byteSize": 9616
+    },
+    {
+      "path": "assets/roboto-greek-500-normal-oCqhoyfc.woff",
+      "sha256": "d4e12a050b3421860ac16c7f79cf63b3ef9cfdb6ffafad6354f8c58fc53596e7",
+      "byteSize": 7712
+    },
+    {
+      "path": "assets/roboto-greek-700-normal-0aHWxGLu.woff2",
+      "sha256": "1e88ca8df7c8bfd43deab63817490110b302732a281984cdae74c8e424e5900b",
+      "byteSize": 9632
+    },
+    {
+      "path": "assets/roboto-greek-700-normal-DjRqqLBV.woff",
+      "sha256": "96364b083bcbaee063c7139ba2bf3405813ac200c683a29e16ac0d506d6fe6e9",
+      "byteSize": 7676
+    },
+    {
+      "path": "assets/roboto-latin-400-normal-BqEyEoaF.woff2",
+      "sha256": "425c0713a8176f92273d378599c7eac57de7fafabd4bd0ed457b70eb8f80d371",
+      "byteSize": 21884
+    },
+    {
+      "path": "assets/roboto-latin-400-normal-DyYNIH4P.woff",
+      "sha256": "050cd689ba150e71c4ae131021474f48d97f367d94634654c8c06a5310279f3c",
+      "byteSize": 21776
+    },
+    {
+      "path": "assets/roboto-latin-500-normal-7RbcRiD8.woff2",
+      "sha256": "5bcc3aa180e7f26f643cd5b2621cd7c2de193d0661d913a94afd3d4881a7a34b",
+      "byteSize": 22200
+    },
+    {
+      "path": "assets/roboto-latin-500-normal-DQZyH_nt.woff",
+      "sha256": "b9c3346f0ae869eee449c94a182d90b100f253d916827785577887d03eff51db",
+      "byteSize": 21920
+    },
+    {
+      "path": "assets/roboto-latin-700-normal-BZpUvMxY.woff2",
+      "sha256": "b9d66d1708156f765ada51939bc24ed259dafa69eb631b36e443680fe9e15879",
+      "byteSize": 22240
+    },
+    {
+      "path": "assets/roboto-latin-700-normal-DLgJJpmK.woff",
+      "sha256": "a2238b3178ba89b791fb7ced9e118f720b7ef43386b452ab8ce9198d119cf32a",
+      "byteSize": 21924
+    },
+    {
+      "path": "assets/roboto-latin-ext-400-normal-C3tdtHj3.woff2",
+      "sha256": "5725eacca97303d8bce26f76cfcaee4393295bbf93c1eb6c3e5e4f260b2da189",
+      "byteSize": 15040
+    },
+    {
+      "path": "assets/roboto-latin-ext-400-normal-scX0fKtV.woff",
+      "sha256": "aee3ca3109a43837afaa74c57f87199358aa9b2351c4e31c7bf8a6d2e4fdb4e8",
+      "byteSize": 14312
+    },
+    {
+      "path": "assets/roboto-latin-ext-500-normal-Cyc0AKLz.woff",
+      "sha256": "5330603408cbdd7e4dac600d587ee3fcf566c3f77b40b5cb7e5e634313e80099",
+      "byteSize": 14388
+    },
+    {
+      "path": "assets/roboto-latin-ext-500-normal-pMCM9Ixg.woff2",
+      "sha256": "1e597a6e3b163200475089698be3427ab1bb01553493d5b7d53694429948d8ec",
+      "byteSize": 15160
+    },
+    {
+      "path": "assets/roboto-latin-ext-700-normal-BUhwtWwy.woff",
+      "sha256": "db60c4cb7dbe1a20c6681539c1c624fcb479ba7c945d93d9b2ff5f1710baa4f3",
+      "byteSize": 14316
+    },
+    {
+      "path": "assets/roboto-latin-ext-700-normal-DSBUz0N1.woff2",
+      "sha256": "7673803a2d402018b1f726dded5bf2dbf2be4307039e8718f4bea654d6eca249",
+      "byteSize": 15196
+    },
+    {
+      "path": "assets/roboto-math-400-normal-BEFej5gc.woff2",
+      "sha256": "6fb289fea179641579de5b208600d490ee52177b347f83e92cf673afc419704e",
+      "byteSize": 20088
+    },
+    {
+      "path": "assets/roboto-math-400-normal-C9RxBKAh.woff",
+      "sha256": "3e8872e8c18910daed00c6e38ed31a386ca189f7dce0f2fa452bb905e226c74c",
+      "byteSize": 19228
+    },
+    {
+      "path": "assets/roboto-math-500-normal-C-7mKPO3.woff",
+      "sha256": "b0b427818d68d3818738a61f40e843b85de637064b3218fd169127d31496e691",
+      "byteSize": 19308
+    },
+    {
+      "path": "assets/roboto-math-500-normal-C4NU9gLX.woff2",
+      "sha256": "41e63fe77c08977713ad31884c564f5e7c4767b7a1625d0753b6a39e0a0a93f4",
+      "byteSize": 20300
+    },
+    {
+      "path": "assets/roboto-math-700-normal-B8YqGHVc.woff2",
+      "sha256": "3cacb4c77c955f56a94ddf8ec9af8a546d2f009696a5b710eaf4d9a8aa8b3d39",
+      "byteSize": 20392
+    },
+    {
+      "path": "assets/roboto-math-700-normal-DVoD5t2k.woff",
+      "sha256": "393735acde2ad5ff7b7200ca0da0954a3c73ba04d0110219af620879d88d761f",
+      "byteSize": 19352
+    },
+    {
+      "path": "assets/roboto-symbols-400-normal-CB1Ce4Gk.woff2",
+      "sha256": "a50e7f2d64f85c2d81fe7be1da5c943fde45c4ac47d3147f9b5a56b705b97824",
+      "byteSize": 10736
+    },
+    {
+      "path": "assets/roboto-symbols-400-normal-DLYbZahX.woff",
+      "sha256": "be0650dae5466415dc436edfda927f4bcd9939b1c2e37d050bb73e49589a1594",
+      "byteSize": 8968
+    },
+    {
+      "path": "assets/roboto-symbols-500-normal-B_CZKVJS.woff2",
+      "sha256": "5cb4c667beadbfc8c324b04fcea15837e253231e35ccc3d19b5e36e5280f92b4",
+      "byteSize": 10836
+    },
+    {
+      "path": "assets/roboto-symbols-500-normal-F7c8nfcH.woff",
+      "sha256": "719cbc501597e9c6dcaea7cf9b29b07c2481aa3a350f0829ff86e04dfc8081e4",
+      "byteSize": 8956
+    },
+    {
+      "path": "assets/roboto-symbols-700-normal-BiFDindJ.woff2",
+      "sha256": "25910e65ad4da1280d717a906bb4677ba666405b3ca3a286f40e01f58fce24fb",
+      "byteSize": 10868
+    },
+    {
+      "path": "assets/roboto-symbols-700-normal-BoS6HWkc.woff",
+      "sha256": "8c44cacdadef0b6c1cc0191ee15c6fcc66e38a17f6636fa700644fd3875c161e",
+      "byteSize": 8988
+    },
+    {
+      "path": "assets/roboto-vietnamese-400-normal-D2PTxGxD.woff2",
+      "sha256": "76afb0e482ab569c50a1ca35dfd052daa3d0f6d54d1b30865f6fea4c35c2b350",
+      "byteSize": 8368
+    },
+    {
+      "path": "assets/roboto-vietnamese-400-normal-DnpnVwnf.woff",
+      "sha256": "a7ece9e36309c1eac204bcaa7006b76d17b66ee673c4dbf7f8aa62fb9dc9ef2e",
+      "byteSize": 6344
+    },
+    {
+      "path": "assets/roboto-vietnamese-500-normal-B3ncpOoB.woff2",
+      "sha256": "15c77aed355b2ca99b34986268c33c67107613a2987c71dd9e12e79bbd6f9e63",
+      "byteSize": 8540
+    },
+    {
+      "path": "assets/roboto-vietnamese-500-normal-D380IkQ8.woff",
+      "sha256": "9ed919194333df14907c7e02e99a5e73278a6538c8539c0500246ab86391c6dc",
+      "byteSize": 6412
+    },
+    {
+      "path": "assets/roboto-vietnamese-700-normal-BEVeWqJt.woff2",
+      "sha256": "bec340ec8c7ec4940533eeceadddb00ac2da872c57c67b0c55e772c7c32dad4e",
+      "byteSize": 8416
+    },
+    {
+      "path": "assets/roboto-vietnamese-700-normal-DsFyXAL4.woff",
+      "sha256": "532acd9d5e13d343d56e3cedbe9c3354b857971dd3be09482365ed6c9690fa1c",
+      "byteSize": 6384
+    },
+    {
+      "path": "assets/router-8iHKGbuz.js",
+      "sha256": "029f4dca9903cb6edac07886103c52d04567d16bcd66887361ab9de2fe6d045a",
+      "byteSize": 667
+    },
+    {
+      "path": "assets/serviceWorker-CcfBW3mv.js",
+      "sha256": "9d13764c99904b2ef361bfafdd09212012f6c6ccb2ad4c629832faddf00e6ad9",
+      "byteSize": 530653
+    },
+    {
+      "path": "assets/setupApp-B7r36Lcs.css",
+      "sha256": "db5e2eedf974c59a67b91242cbef855c190aeea4a024f4cda484769f4b8f90f0",
+      "byteSize": 282267
+    },
+    {
+      "path": "assets/setupApp-IQpURhJP.js",
+      "sha256": "2160cc8d16842da271bd680710ac0354ff9f230f22f669c10f9fe7395f4a94f0",
+      "byteSize": 367831
+    },
+    {
+      "path": "assets/vendor/@automerge/automerge-DRgmIirv.js",
+      "sha256": "62523233d2b8b1fbc90170da3269d30d712a49a89584e8d1c78d163d7f7a65be",
+      "byteSize": 73864
+    },
+    {
+      "path": "assets/vendor/@dnd-kit/abstract-siGRgoAN.js",
+      "sha256": "7d995df4ff270948ce39836c66718157d7d3671f543dbaf7c5044f1b24491534",
+      "byteSize": 35806
+    },
+    {
+      "path": "assets/vendor/@dnd-kit/dom-CXTBnQGc.js",
+      "sha256": "fe74256644d0f219ac135e20ea05f2b19d3400881ad067d378f22af961bf9831",
+      "byteSize": 72766
+    },
+    {
+      "path": "assets/vendor/@dnd-kit/vue-rsh2YN-v.js",
+      "sha256": "ab6fe448e350abfbe50bd92237b4f69d471ad40d0a46a866a22c04eaf6c5de5a",
+      "byteSize": 4500
+    },
+    {
+      "path": "assets/vendor/@floating-ui/vue-CahSW-Al.js",
+      "sha256": "1fe592f91ecd4d220734e9fde87f9c414dbf803112863f57cda57c3773cd7326",
+      "byteSize": 18885
+    },
+    {
+      "path": "assets/vendor/@m3e/web-Bn450wAv.js",
+      "sha256": "4e392d42158a5437451ecff412e0ffe2e91408f6f21ae5e1973b8c94e76e871f",
+      "byteSize": 257996
+    },
+    {
+      "path": "assets/vendor/@sentry/browser-NBMSBKSA.js",
+      "sha256": "aae37f7945bc837f94a4215758f191e5779f34d01e338ec87545904533ecf298",
+      "byteSize": 425890
+    },
+    {
+      "path": "assets/vendor/@sentry/vue-DvgPuF1f.js",
+      "sha256": "0a564e95b353029a95b6f832a1e8e832546161ae4dc107de32d070b4826eb0e8",
+      "byteSize": 12323
+    },
+    {
+      "path": "assets/vendor/@unhead/vue-BN6VZiWd.js",
+      "sha256": "6101dd68534a9d209414d84922b3e3455d7d956150d3073388733dced6de1332",
+      "byteSize": 15405
+    },
+    {
+      "path": "assets/vendor/@vue/devtools-api-l0sNRNKZ.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 0
+    },
+    {
+      "path": "assets/vendor/@vueuse/core-CWpWS-Xd.js",
+      "sha256": "654bb828a50002d23aa617e6c3228823d809797b8de6b12517f9f6648dc78760",
+      "byteSize": 17820
+    },
+    {
+      "path": "assets/vendor/@vueuse/integrations-C-wDQUxA.js",
+      "sha256": "5952f4a14cceaafea37f931ce7ce0199703859b82097b457ce8f0d3967554c8c",
+      "byteSize": 1845
+    },
+    {
+      "path": "assets/vendor/browser-fs-access-BbRJXtVp.js",
+      "sha256": "9cc37bf94d5b9cf0e923defaf5b0ddad42729877d0f52ac82f4dcba7c355bbbe",
+      "byteSize": 6065
+    },
+    {
+      "path": "assets/vendor/dayjs-BaZG3gry.js",
+      "sha256": "f464b3358e453268754479c751637b18fe74337dd5cd5806e1a1f4960fc5b9c4",
+      "byteSize": 8114
+    },
+    {
+      "path": "assets/vendor/es-toolkit-B9qBfpiw.js",
+      "sha256": "7c4f381aa1fa3c0fc6ad72b93a4c7b33f77281303251ae941233c44b5e7e90a9",
+      "byteSize": 12629
+    },
+    {
+      "path": "assets/vendor/fflate-l0sNRNKZ.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 0
+    },
+    {
+      "path": "assets/vendor/file-type-BjbUqFvi.js",
+      "sha256": "9cf031b76a996b515c41b22f033491b11115821771a732d09d9de841f98ed5a2",
+      "byteSize": 6485
+    },
+    {
+      "path": "assets/vendor/focus-trap-6ln0SjAZ.js",
+      "sha256": "2b1e32bb6b2df5c4c756994a018359cad6e8509800962afcb02604605fc77874",
+      "byteSize": 20400
+    },
+    {
+      "path": "assets/vendor/idb-keyval-DFipOmWA.js",
+      "sha256": "65a8236c6929e5dfd4c22482be771364414b95cc524f0cc9bb93f29b36cdaa07",
+      "byteSize": 1286
+    },
+    {
+      "path": "assets/vendor/ky-mMagm4xu.js",
+      "sha256": "fb7de68e2718d07f3d1a900d8f2baeb965a5f5d7607b51bad6df8ba82f603d37",
+      "byteSize": 20859
+    },
+    {
+      "path": "assets/vendor/lru-cache-DFG4rLt9.js",
+      "sha256": "548df121b34728864f5d79f5a155eef55fa7abcc54bd9b8d04cb8b7fa0e41a5a",
+      "byteSize": 18388
+    },
+    {
+      "path": "assets/vendor/markdown-it-1cXBlKaM.js",
+      "sha256": "e1137511dc76fe028beea0addc302d493c44836784efe0c6d9793b9a21762f69",
+      "byteSize": 123956
+    },
+    {
+      "path": "assets/vendor/match-sorter-DoL5aps_.js",
+      "sha256": "c7a97af618202bd0f3280b88e862c3dd1a12e7ce99ec0c2fa505abb3b01e2687",
+      "byteSize": 9022
+    },
+    {
+      "path": "assets/vendor/material-symbols-vHKilC93.css",
+      "sha256": "85e181aa0bcace611e99fbcba04462f0c7113a9677deb978e4523caedeea888f",
+      "byteSize": 565
+    },
+    {
+      "path": "assets/vendor/p-limit-BOLALkOM.js",
+      "sha256": "21afc895bab9d8e4228e98ab9c715699ff37cfa3d36ee3cf881790cce1c0871e",
+      "byteSize": 2026
+    },
+    {
+      "path": "assets/vendor/parse-duration-DHSaV4N-.js",
+      "sha256": "e3e8eee59ece109e92dadee12cc6f433a01836b1183b684beca88e5c4f9024c0",
+      "byteSize": 1408
+    },
+    {
+      "path": "assets/vendor/perfect-debounce-B6566Vwt.js",
+      "sha256": "63373c7903b82e97d064b772491d9bfb822a2d3d71766b4d3d162be5307f6862",
+      "byteSize": 1140
+    },
+    {
+      "path": "assets/vendor/qs-D9UUmv4X.js",
+      "sha256": "26dd23ff8b2aaf0a5f7905e065e1ccba7b37b83d0c304f068595c5524af9949c",
+      "byteSize": 42731
+    },
+    {
+      "path": "assets/vendor/quickselect-l0sNRNKZ.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 0
+    },
+    {
+      "path": "assets/vendor/rxjs-l0sNRNKZ.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 0
+    },
+    {
+      "path": "assets/vendor/safe-stable-stringify-C8jOAPH9.js",
+      "sha256": "5ff9dbd8c59a528ab7f7e7611436df28dd53c16a4c9c9a83dace26c412963175",
+      "byteSize": 8100
+    },
+    {
+      "path": "assets/vendor/sift-l0sNRNKZ.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "byteSize": 0
+    },
+    {
+      "path": "assets/vendor/sortablejs-VrSA-cVB.js",
+      "sha256": "0e3b50cf4f4dda6fff1aec779e17c5ef2c6c02b4966c6a82edd6126dd45c71d4",
+      "byteSize": 37133
+    },
+    {
+      "path": "assets/vendor/superjson-CLinSVgq.js",
+      "sha256": "677300db97449be1b2e1aff39fde895d8d1e9dfb691aa34ace05d17b403f3aca",
+      "byteSize": 11059
+    },
+    {
+      "path": "assets/vendor/uid-CXbeHrkc.js",
+      "sha256": "8c8c8f02d37cd2c4349276b6d2e1c12941c07299c83759ceb459f68609761489",
+      "byteSize": 707
+    },
+    {
+      "path": "assets/vendor/vue-BfU0qtKq.js",
+      "sha256": "6b85c51868c960e8a9023aa468ec27349844560b9f88c7916d9e6480eca7c60b",
+      "byteSize": 103509
+    },
+    {
+      "path": "assets/vendor/web-vitals-DOBmEPCh.js",
+      "sha256": "354cb4b6bae3eeec709a1bf43632e086ac6dff4b0ca754c5112c86859845b999",
+      "byteSize": 5825
+    },
+    {
+      "path": "assets/vendor/zod-BXv-t81F.js",
+      "sha256": "f4bba3705c1e85190655537a30543ab7669a1ff064ae8a191470b6a3f8fe6088",
+      "byteSize": 53758
+    }
+  ]
+}
