@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "200",
+  "baseUrl": "/pr/200/",
+  "buildDate": "2026-08-15T11:47:04.858Z",
+  "ref": "refactor/release-automatic-pr-versioning",
+  "branch": "refactor/release-automatic-pr-versioning",
+  "sha": "dc9e915c0657142f5809b6caa36858d47839b5d3",
+  "appVersion": "0.3.17"
+}
