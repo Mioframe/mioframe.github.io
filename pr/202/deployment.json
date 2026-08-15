@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "202",
   "baseUrl": "/pr/202/",
-  "buildDate": "2026-08-15T14:39:53.248Z",
+  "buildDate": "2026-08-15T15:05:42.327Z",
   "ref": "docs/verify-unsandboxed",
   "branch": "docs/verify-unsandboxed",
-  "sha": "1dfd35a14dc8e391b850dea3a487557f948c06ec",
-  "appVersion": "0.3.18"
+  "sha": "60cb1c3eed05077392835bc0294da7cc2b2acacd",
+  "appVersion": "0.3.19"
 }
