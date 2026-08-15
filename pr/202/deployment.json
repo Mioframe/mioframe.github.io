@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "202",
+  "baseUrl": "/pr/202/",
+  "buildDate": "2026-08-15T14:25:00.670Z",
+  "ref": "docs/verify-unsandboxed",
+  "branch": "docs/verify-unsandboxed",
+  "sha": "b30bf3061dda4067144ad46d68f49df23b355fe8",
+  "appVersion": "0.3.16"
+}
