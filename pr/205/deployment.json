@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "205",
+  "baseUrl": "/pr/205/",
+  "buildDate": "2026-08-16T21:08:26.329Z",
+  "ref": "refactor/storybook-v2b-visual-planner-precision",
+  "branch": "refactor/storybook-v2b-visual-planner-precision",
+  "sha": "2b732431cfd9a2e6625ae9711a4f17a2b82b660c",
+  "appVersion": "0.3.22"
+}
