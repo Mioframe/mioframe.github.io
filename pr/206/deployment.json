@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "206",
+  "baseUrl": "/pr/206/",
+  "buildDate": "2026-08-18T07:55:07.674Z",
+  "ref": "refactor/storybook-s4e-button-visual-ownership",
+  "branch": "refactor/storybook-s4e-button-visual-ownership",
+  "sha": "671f42bba98cdf043f16b296856d6a5c8bde1f44",
+  "appVersion": "0.3.23"
+}
