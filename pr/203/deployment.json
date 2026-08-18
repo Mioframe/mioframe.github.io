@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "203",
   "baseUrl": "/pr/203/",
-  "buildDate": "2026-08-16T09:03:28.440Z",
+  "buildDate": "2026-08-18T12:20:34.349Z",
   "ref": "refactor/material-contract-workflow",
   "branch": "refactor/material-contract-workflow",
-  "sha": "ab2a76bb12acaed5a6f5a3d9d9fbd00689b57d0d",
-  "appVersion": "0.3.20"
+  "sha": "0a035ddd865ff258e67263f38a0220f4f7928879",
+  "appVersion": "0.3.23"
 }
