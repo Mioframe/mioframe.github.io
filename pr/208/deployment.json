@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "208",
+  "baseUrl": "/pr/208/",
+  "buildDate": "2026-08-18T21:36:33.099Z",
+  "ref": "fix/sentry-stable-vendor-chunks",
+  "branch": "fix/sentry-stable-vendor-chunks",
+  "sha": "1331fae751ddb16f4bc835cf8f5262eee1d32f18",
+  "appVersion": "0.3.24"
+}
