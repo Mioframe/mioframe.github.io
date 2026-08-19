@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "210",
   "baseUrl": "/pr/210/",
-  "buildDate": "2026-08-19T11:25:29.265Z",
+  "buildDate": "2026-08-19T12:08:58.731Z",
   "ref": "refactor/e2e-project-applicability",
   "branch": "refactor/e2e-project-applicability",
-  "sha": "8ebfb08b6e6d010229b77f37203be1360175644e",
+  "sha": "b9126df7c9f1259cd377448e0ad7005477c0b595",
   "appVersion": "0.3.28"
 }
