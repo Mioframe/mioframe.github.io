@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "212",
+  "baseUrl": "/pr/212/",
+  "buildDate": "2026-08-19T18:54:39.920Z",
+  "ref": "refactor/storybook-build-reuse",
+  "branch": "refactor/storybook-build-reuse",
+  "sha": "79c75efe559024367a94f1597144fabb2be78da3",
+  "appVersion": "0.3.29"
+}
