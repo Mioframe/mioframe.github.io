@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "210",
+  "baseUrl": "/pr/210/",
+  "buildDate": "2026-08-19T11:25:29.265Z",
+  "ref": "refactor/e2e-project-applicability",
+  "branch": "refactor/e2e-project-applicability",
+  "sha": "8ebfb08b6e6d010229b77f37203be1360175644e",
+  "appVersion": "0.3.28"
+}
