@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "206",
   "baseUrl": "/pr/206/",
-  "buildDate": "2026-08-18T16:56:41.181Z",
+  "buildDate": "2026-08-19T07:27:54.807Z",
   "ref": "refactor/storybook-s4e-button-visual-ownership",
   "branch": "refactor/storybook-s4e-button-visual-ownership",
-  "sha": "ac812f0be5405c08ff0b1748d6080e02314ef403",
-  "appVersion": "0.3.23"
+  "sha": "a2c22f929cc2f838c37750898d986508a443497f",
+  "appVersion": "0.3.25"
 }
