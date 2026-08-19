@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "207",
   "baseUrl": "/pr/207/",
-  "buildDate": "2026-08-18T20:41:59.298Z",
+  "buildDate": "2026-08-19T08:01:38.128Z",
   "ref": "material/extended-fab-pilot",
   "branch": "material/extended-fab-pilot",
-  "sha": "66a31c310d7b9676aa9436b3515d2840bb39818e",
-  "appVersion": "0.3.24"
+  "sha": "d421957cb021a8782f52360d71d269f158c24e91",
+  "appVersion": "0.3.26"
 }
