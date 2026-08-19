@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "209",
+  "baseUrl": "/pr/209/",
+  "buildDate": "2026-08-19T08:14:02.612Z",
+  "ref": "fix/stacked-pr-version-inheritance",
+  "branch": "fix/stacked-pr-version-inheritance",
+  "sha": "bd71a5b679da8ba808fc4c592e82126af15a8b0b",
+  "appVersion": "0.3.26"
+}
