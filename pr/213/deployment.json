@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "213",
+  "baseUrl": "/pr/213/",
+  "buildDate": "2026-08-20T19:16:39.549Z",
+  "ref": "refactor/testing-v3c-visual-proof-ownership",
+  "branch": "refactor/testing-v3c-visual-proof-ownership",
+  "sha": "7225e3e054894ba2413b86777d05e00409449a41",
+  "appVersion": "0.3.30"
+}
