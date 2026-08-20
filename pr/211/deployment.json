@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "211",
   "baseUrl": "/pr/211/",
-  "buildDate": "2026-08-20T12:11:31.558Z",
+  "buildDate": "2026-08-20T12:42:34.301Z",
   "ref": "fix/local-directory-access-recovery",
   "branch": "fix/local-directory-access-recovery",
-  "sha": "55fc711bdbc16bef347f88e116a90f1503affd7b",
+  "sha": "19c9d3850d749e1852d19c21cf5219e2c16c0848",
   "appVersion": "0.3.30"
 }
