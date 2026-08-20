@@ -2,10 +2,10 @@
   "channel": "branch",
   "channelId": "develop",
   "baseUrl": "/branch/develop/",
-  "buildDate": "2026-08-20T09:54:26Z",
+  "buildDate": "2026-08-20T19:28:12Z",
   "ref": "refs/heads/develop",
   "branch": "develop",
   "slug": "develop",
-  "sha": "5a71cb8ab541ad0b974f8e26923f3cfef1e1fc3c",
-  "appVersion": "0.3.29"
+  "sha": "b264c816fda35205459a24840d9dcf8412cd121f",
+  "appVersion": "0.3.30"
 }
