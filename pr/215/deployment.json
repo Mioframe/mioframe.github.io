@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "215",
   "baseUrl": "/pr/215/",
-  "buildDate": "2026-08-21T11:19:43.326Z",
+  "buildDate": "2026-08-21T12:07:55.237Z",
   "ref": "refactor/directory-state-reactivity",
   "branch": "refactor/directory-state-reactivity",
-  "sha": "cc4eca96dd55072d98676ed5026f672889fa2fed",
+  "sha": "83c64359a3424cbd6617e574f44f8a1a0df9be80",
   "appVersion": "0.3.32"
 }
