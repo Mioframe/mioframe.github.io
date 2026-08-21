@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "215",
+  "baseUrl": "/pr/215/",
+  "buildDate": "2026-08-21T11:19:43.326Z",
+  "ref": "refactor/directory-state-reactivity",
+  "branch": "refactor/directory-state-reactivity",
+  "sha": "cc4eca96dd55072d98676ed5026f672889fa2fed",
+  "appVersion": "0.3.32"
+}
