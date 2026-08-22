@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "216",
+  "baseUrl": "/pr/216/",
+  "buildDate": "2026-08-22T14:49:35.808Z",
+  "ref": "refactor/verify-modernization-finish",
+  "branch": "refactor/verify-modernization-finish",
+  "sha": "466a98c6207a0ae375611e9359c6f9896d44f26c",
+  "appVersion": "0.3.33"
+}
