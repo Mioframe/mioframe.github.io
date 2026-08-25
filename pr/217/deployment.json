@@ -2,9 +2,9 @@
   "channel": "pr",
   "channelId": "217",
   "baseUrl": "/pr/217/",
-  "buildDate": "2026-08-24T21:05:36.131Z",
+  "buildDate": "2026-08-25T14:17:07.474Z",
   "ref": "fix/database-large-data-performance",
   "branch": "fix/database-large-data-performance",
-  "sha": "d76a39bf5c1d5722177888187ec07d513f56e0c0",
+  "sha": "466375a5aead9fbc2254493921935a0256baef97",
   "appVersion": "0.3.33"
 }
