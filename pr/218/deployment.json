@@ -1,0 +1,10 @@
+{
+  "channel": "pr",
+  "channelId": "218",
+  "baseUrl": "/pr/218/",
+  "buildDate": "2026-08-26T10:35:41.565Z",
+  "ref": "architecture/verify-redesign",
+  "branch": "architecture/verify-redesign",
+  "sha": "60a097a077cb834e4cab28f5a2a8fad616ff77fd",
+  "appVersion": "0.3.33"
+}
